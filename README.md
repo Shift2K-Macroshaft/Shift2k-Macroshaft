@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is not Microsoft. We like code and other stuff
 
 <!--
 **Shift2K-Macroshaft/Shift2k-Macroshaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
